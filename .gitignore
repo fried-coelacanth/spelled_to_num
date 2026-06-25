@@ -18,3 +18,6 @@ cmake_install.cmake
 #OS junk
 .DS_Store
 Thumbs.db
+
+#logs
+log.txt
